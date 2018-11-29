@@ -10,6 +10,7 @@
 
 # IDEs and editors
 /.idea
+.idea/
 .project
 .classpath
 .c9/
@@ -38,5 +39,10 @@ testem.log
 .DS_Store
 Thumbs.db
 
+*.iml
+
 /webgl/examples
 /webgl/.idea/
+
+/java-cv/.idea/
+/java-cv/target/
