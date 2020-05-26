@@ -46,3 +46,5 @@ Thumbs.db
 
 /java-cv/.idea/
 /java-cv/target/
+
+.ipynb_checkpoints
